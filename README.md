@@ -9,20 +9,17 @@ title: JSP-ControlClientes
 ---
 
 ![Pantalla
-principal](../../../../../Imágenes/Captura de pantalla de 2021-01-19 21-09-08.png){#fig:captura-de-pantalla-de-2021-01-19-21-09-08
-width="0.7\\linewidth"}
+principal](https://user-images.githubusercontent.com/43243319/105259671-e0631300-5b51-11eb-9b4f-ac1d0293f75f.png)
 
 ![Modal de agregar
-nuevo](../../../../../Imágenes/Captura de pantalla de 2021-01-19 21-09-25.png){#fig:captura-de-pantalla-de-2021-01-19-21-09-25
-width="0.7\\linewidth"}
+nuevo](https://user-images.githubusercontent.com/43243319/105259673-e0fba980-5b51-11eb-8cdc-99352778dea1.png)
 
 # Modelo de bases de datos
 
 La entidad cliente está formada por los siguientes campos:
 
 ![Propiedades de la entidad
-cliente](../../../../../Imágenes/controlClientes.png){#fig:controlclientes
-width="0.7\\linewidth"}
+cliente](https://user-images.githubusercontent.com/43243319/105259667-dfca7c80-5b51-11eb-8551-da6244234b4e.png)
 
 El script SQL para generar la entidad está dentro de este repositorio en
 el directorio /src/main/ el archivo se llama *databasechema.sql*
@@ -32,7 +29,7 @@ MySQL o MariaDB.
 
 # Servidor
 
-![image](../../../../../Descargas/configure-glassfish-with-mysql.jpg){width="0.7\\linewidth"}
+![Glassfish logo](https://3.bp.blogspot.com/-eihtIptOpM4/WXjssuS7j-I/AAAAAAAABO4/18YysX3t_bgyLukoB-nOhATzzdwDeA6sACLcBGAs/w1200-h630-p-k-no-nu/glassfish_logo.png)
 
 GlassFish es un servidor de aplicaciones de software libre desarrollado
 por Sun Microsystems, compañía adquirida por Oracle Corporation, que
